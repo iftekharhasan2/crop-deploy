@@ -1,6 +1,7 @@
 ﻿Flask
-numpy==1.24.3
+numpy
+pickle
 gunicorn
 xgboost
-scikit-learn==1.2.2
+scikit-learn
 
