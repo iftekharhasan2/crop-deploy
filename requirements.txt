@@ -2,6 +2,5 @@
 numpy
 pickle
 gunicorn
-xgboost
 scikit-learn
 
