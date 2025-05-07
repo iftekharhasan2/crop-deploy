@@ -2,4 +2,5 @@
 numpy
 gunicorn
 scikit-learn
+xgboost
 
